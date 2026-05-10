@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gaibo-shudhu-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Gaibo Shudhu Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gaibo-shudhu-gaan/) |
+| **Get License** | [Official Music Licensing for Gaibo Shudhu Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gaibo-shudhu-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42974a39b6e4eeb1291f7c3fac207525c25b88fdc9f6c217a7c0497db6fdcf0f` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
