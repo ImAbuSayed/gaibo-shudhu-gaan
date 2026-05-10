@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gaibo-shudhu-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Gaibo Shudhu Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gaibo-shudhu-gaan/) |
+| **Get License** | [Get a Licensing Quote for Gaibo Shudhu Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gaibo-shudhu-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাত গভীরে তোমার নেশায়, পুড়ছে আমার শরীর মন.. পুড়ছে মন..
+> শিহরণ জাগে তোমার ছোঁয়ায়, চাইছে তোমায় সারাক্ষণ
+> অবাধ্য এই অবুঝ হৃদয়, গাইবো শুধু তোমার গান.. শুধু গান..
+> আমার প্রতিটি নিশ্বাসে আজ, তোমার ছোঁয়ার আহ্বান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
